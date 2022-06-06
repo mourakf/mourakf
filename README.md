@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, Hallo!
 
-<!--
-**mourakf/mourakf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 💻 I’m currently working as a chatbot developer.
+- 📑 Enrolled in System Analysis and Development degree.
+- 🧱 Current tecnologies: Javascript, Nodejs, Github, Jira and such.
+- 🌱 Focusing on continuous self improvement and self learning;
+>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Backend development
+- API REST
+- Software automation
+- DevOps
+
+## 📫 Contact:
+- LinkedIn: [Karina Moura](https://linkedin.com/in/kmfra)
