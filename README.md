@@ -2,17 +2,16 @@
 
 ## 👩‍💻 About me
 - 💻 I’m currently working as a chatbot developer;
-- 📑 Enrolled in System Analysis and Development degree;
+- 📑 Graduated in Systems Analysis and Development;
 - 🧱 Current tecnologies: Javascript, Nodejs, Python, Git and such;
 - 🌱 Focusing on continuous self improvement and self learning.
->
+
 
 
 ## ✨Interests
 - Backend development
-- API REST
+- Data analysis
 - Software automation
-- DevOps
 
 ## 📫 Contact:
-- LinkedIn: [Karina Moura](https://linkedin.com/in/kmfra)
+- LinkedIn: [Karina Moura](https://linkedin.com/in/mourak)
