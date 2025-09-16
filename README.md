@@ -9,9 +9,8 @@
 
 
 ## ✨Interests
-- Backend development
-- Data analysis
-- Software automation
+- Automations
+- IA
 
 ## 📫 Contact:
 - LinkedIn: [Karina Moura](https://linkedin.com/in/mourak)
